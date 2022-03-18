@@ -5,10 +5,16 @@ Analyses: outcomes based on launch date and on goals
 
 ### Purpose
    Louise’s play Fever came close to its fundraising goal in a short amount of time. This analysis would help Louise visualize how the different campaigns fared compared to hers in relation to their launch dates and their funding goals.
+ 
+ 
+## Resources
+- Software:
+   - Microsoft 365
+      - Microsoft Excel
    
-### Software
-- Microsoft Excel
-   
+- Data source: 
+   - [Kickstarter_Challenge.xlsx](https://github.com/SYDsCorner/Kickstarter_Challenge/blob/main/Kickstarter_Challenge.xlsx)
+  
 
 ## Analysis and Challenges
 
