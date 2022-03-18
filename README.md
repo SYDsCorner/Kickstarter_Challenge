@@ -5,6 +5,10 @@ Analyses: outcomes based on launch date and on goals
 
 ### Purpose
    Louise’s play Fever came close to its fundraising goal in a short amount of time. This analysis would help Louise visualize how the different campaigns fared compared to hers in relation to their launch dates and their funding goals.
+   
+### Software
+- Microsoft Excel
+   
 
 ## Analysis and Challenges
 
